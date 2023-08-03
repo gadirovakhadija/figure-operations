@@ -1,5 +1,12 @@
 package org.example;
 
+import org.example.config.Figure;
+import org.example.config.FigureRepository;
+import org.example.config.FigureRepositoryImpl;
+import org.example.figures.Cube;
+import org.example.figures.Cuboid;
+import org.example.figures.Cylinder;
+
 import java.util.List;
 
 public class Main {

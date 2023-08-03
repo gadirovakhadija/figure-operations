@@ -1,4 +1,4 @@
-package org.example;
+package org.example.config;
 
 public abstract class Figure {
     public abstract double getVolume();

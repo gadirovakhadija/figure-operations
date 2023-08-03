@@ -1,4 +1,4 @@
-package org.example;
+package org.example.figures;
 
 public class Cube extends Cuboid {
     private double sideLength;

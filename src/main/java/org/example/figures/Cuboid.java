@@ -1,4 +1,6 @@
-package org.example;
+package org.example.figures;
+
+import org.example.config.Figure;
 
 public class Cuboid extends Figure {
 
